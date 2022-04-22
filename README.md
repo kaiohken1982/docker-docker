@@ -1,6 +1,7 @@
 # Creazione immagine con servizio docker
 
-Questa immagine potrebbe tornare utile per creazione swarm locale
+Questa immagine potrebbe tornare utile per creazione swarm locale.
+È necessario aver generato docker-base in locale.
 
 ## Per il build dell'immagine
 
